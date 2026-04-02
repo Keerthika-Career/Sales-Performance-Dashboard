@@ -27,3 +27,4 @@ To monitor and evaluate sales performance, identify top-performing employees, an
 
 🚀 Conclusion
 This dashboard provides a comprehensive view of sales performance, helping stakeholders identify trends, track KPIs, and improve strategic decision-making.
+<img width="1913" height="815" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/37c3ff4c-ff3d-4845-835e-238989ec46b7" />
